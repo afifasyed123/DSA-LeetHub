@@ -24,12 +24,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/afifasyed123/DSA-LeetHub/tree/master/0002-add-two-numbers) |
 | [0138-copy-list-with-random-pointer](https://github.com/afifasyed123/dsanew/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/afifasyed123/dsanew/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/afifasyed123/dsanew/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/afifasyed123/DSA-LeetHub/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/afifasyed123/dsanew/tree/master/0206-reverse-linked-list) |
 ## Hash Table
 |  |
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/afifasyed123/dsanew/tree/master/0802-find-eventual-safe-states) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/afifasyed123/DSA-LeetHub/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
