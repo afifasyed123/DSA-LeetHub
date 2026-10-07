@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/afifasyed123/dsanew/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0547-number-of-provinces](https://github.com/afifasyed123/dsanew/tree/master/0547-number-of-provinces) |
+| [0802-find-eventual-safe-states](https://github.com/afifasyed123/dsanew/tree/master/0802-find-eventual-safe-states) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/afifasyed123/dsanew/tree/master/0547-number-of-provinces) |
+| [0802-find-eventual-safe-states](https://github.com/afifasyed123/dsanew/tree/master/0802-find-eventual-safe-states) |
 ## Union-Find
 |  |
 | ------- |
@@ -55,4 +57,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/afifasyed123/dsanew/tree/master/0547-number-of-provinces) |
+| [0802-find-eventual-safe-states](https://github.com/afifasyed123/dsanew/tree/master/0802-find-eventual-safe-states) |
+## Topological Sort
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/afifasyed123/dsanew/tree/master/0802-find-eventual-safe-states) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/afifasyed123/dsanew/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/afifasyed123/dsanew/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
